@@ -33,8 +33,8 @@ hi Visual           ctermfg=251  ctermbg=237  cterm=italic
 
 hi EasyMotionTarget ctermfg=110               cterm=bold
 
-match ExtraWhitespace /\s\+$/
 hi ExtraWhitespace ctermbg=196
+match ExtraWhitespace /\s\+$/
 
 hi link Float            Number
 hi link Debug            Special
