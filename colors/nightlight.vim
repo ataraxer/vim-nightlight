@@ -12,6 +12,7 @@ hi Comment          ctermfg=239  ctermbg=NONE cterm=italic
 hi Constant         ctermfg=249  ctermbg=NONE
 hi CursorLine       ctermfg=NONE ctermbg=236  cterm=NONE
 hi CursorLineNR     ctermfg=236  ctermbg=235
+hi SignColumn       ctermfg=236  ctermbg=235
 hi Error            ctermfg=9    ctermbg=NONE
 hi Function         ctermfg=240  ctermbg=NONE cterm=bold
 hi Identifier       ctermfg=239  ctermbg=NONE
